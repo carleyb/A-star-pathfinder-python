@@ -13,12 +13,15 @@ The A* search algorithm was implemented to find the shortest path.
 
 
 ### How to Start
+* The folders "Input" and "Output" should be placed in the same folder as `pathfinder.py`.
+* The input file should be placed in the folder "Input". 
 * Run `pathfinder.py` from terminal by executing the following command.
 <br/>`python pathfinder.py <INPUT/input#.txt> <OUTPUT/output#.txt> <flag>`
 <br/>i.e. python pathfinder.py INPUT/input1.txt OUTPUT/output1.txt 0<br/>
   * input#.txt : the name of the input file where # is the number<br/>
   * output#.txt : the name of the output file where # is the number<br/>
   * flag : the number of node expansions which require a diagnostic output
+
 
 ### Rules
 * Cost of a diagonal move is 1, while other moves have a cost of 2.
