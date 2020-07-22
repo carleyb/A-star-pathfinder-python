@@ -2,11 +2,8 @@
  
  
 ### Purpose
-The purpose of this project was to write a Python program called pathfinder which finds a path from a given starting tile to a goal tile in a grid of size N x N which indicates a topographic map. This is the implementation of the A* search algorithm in Python.
+The purpose of this project was to write a Python program called pathfinder which finds a path from a given starting tile to a goal tile in a grid of size N x N which indicates a topographic map. The A* search algorithm was implemented to find the shortest path.
 
-
-### Task
-The A* search algorithm was implemented to find the shortest path.
 
 ### Version 
 12 May 2020 
